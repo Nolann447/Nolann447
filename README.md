@@ -2,7 +2,7 @@
 
 # 🎓 Étudiant en Informatique | Data & IA
 
-**Étudiant en BUT Informatique à l’IUT de Lannion • Data Science Enthusiast**
+**Étudiant en BUT Informatique à l’IUT de Lannion • Data Science Enthusiast • UI/UX Student**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-FF8C00?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nolann-lemarie-belliot-600ba6357)
 
@@ -10,9 +10,12 @@
 
 ---
 
-### 📖 À propos
-Étudiant en informatique à l’**IUT de Lannion**, je me spécialise dans l’exploitation des données et le développement d’applications.  
-Je m’intéresse particulièrement aux **intelligences artificielles actuelles**, à leur évolution rapide et à leurs usages concrets dans le monde réel. Curieux et motivé, j’aime comprendre comment ces technologies fonctionnent et comment elles peuvent être utilisées pour créer des solutions utiles et efficaces.
+### 🧠 À propos de moi
+
+- 🎓 19 ans, étudiant en informatique à l’IUT de Lannion  
+- 📊 Intéressé par la Data Science et l’Intelligence Artificielle  
+- 🤖 Curieux des avancées actuelles en IA et de leurs applications concrètes  
+- 🌱 Toujours en apprentissage, j’aime améliorer mes compétences en continu  
 
 ---
 
