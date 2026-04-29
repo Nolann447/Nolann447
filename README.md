@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFA500,100:FF8C00&height=200&section=header&text=Nolann447&fontSize=70&fontColor=ffffff" width="100%" />
-
 # 🚀 Futur Data Analyst | IA Specialist
 **Laravel Developer • Data Science Enthusiast • UI/UX Student**
 
@@ -55,12 +53,6 @@
 </p>
 
 ---
-
-### 📈 Mon Activité GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nolann447&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolann447&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,100:FF8C00&height=100&section=footer" width="100%" />
