@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠 Mon Stack Technique
+### 🛠 Stack Technique
 
 #### 📊 Data Science & IA (Focus)
 <p align="left">
