@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=orange&height=200&section=header&text=Nolann447&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=orange&height=200&section=header&text=Nolann447&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header" />
 
   # 🚀 Futur Data Analyst | IA Specialist
   **Laravel Developer • Data Science Enthusiast • UI/UX Student**
