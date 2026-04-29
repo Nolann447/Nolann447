@@ -2,7 +2,7 @@
 
 # 🎓 Étudiant en Informatique | Data & IA
 
-**Étudiant en BUT Informatique à l’IUT de Lannion • Data Science Enthusiast • UI/UX Student**
+**Data Science Enthusiast • UI/UX Enjoyer**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-FF8C00?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nolann-lemarie-belliot-600ba6357)
 
