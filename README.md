@@ -1,7 +1,8 @@
 <div align="center">
 
-# 🚀 Futur Data Analyst | IA Specialist
-**Laravel Developer • Data Science Enthusiast • UI/UX Student**
+# 🎓 Étudiant en Informatique | Data & IA
+
+**Étudiant en BUT Informatique à l’IUT de Lannion • Data Science Enthusiast • UI/UX Student**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-FF8C00?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nolann-lemarie-belliot-600ba6357)
 
@@ -10,7 +11,8 @@
 ---
 
 ### 📖 À propos
-Étudiant en informatique, je me spécialise dans l'exploitation des données. Actuellement en stage utilisant **Laravel & Blade**, je développe parallèlement des compétences en **Data Science** pour créer des solutions intelligentes et centrées sur l'utilisateur.
+Étudiant en informatique à l’**IUT de Lannion**, je me spécialise dans l’exploitation des données et le développement d’applications.  
+Je m’intéresse particulièrement aux **intelligences artificielles actuelles**, à leur évolution rapide et à leurs usages concrets dans le monde réel. Curieux et motivé, j’aime comprendre comment ces technologies fonctionnent et comment elles peuvent être utilisées pour créer des solutions utiles et efficaces.
 
 ---
 
@@ -29,8 +31,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
